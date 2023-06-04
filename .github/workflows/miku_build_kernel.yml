@@ -1,10 +1,10 @@
-name: EvolutionX_build_kernel
+name: Miku_build_kernel
 
 env:
-  KERNEL_SOURCE: 'https://github.com/chematelegram/kernel_xiaomi_cepheus'
+  KERNEL_SOURCE: 'https://github.com/PhamtomK12/Miku_kernel_xiaomi_modina'
   KERNEL_SOURCE_BRANCH: 'tiramisu'
-  KERNEL_DEFCONFIG: 'cepheus_defconfig'
-  KERNEL_NAME: 'evolutionX-cepheus'
+  KERNEL_DEFCONFIG: 'wayne_defconfig'
+  KERNEL_NAME: 'Miku-Miku'
   
 on:
   schedule:
